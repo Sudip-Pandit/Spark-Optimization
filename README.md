@@ -1,6 +1,6 @@
 # Spark-Optimization
 This repository would explain my own personal experience as well as other expert's opinion in Spark-Optimization Techniques.
-I highly recommended all to watch the full playlist on this link
+I highly recommended all to watch the full playlist on the fist link and read through the second link attached down here:-
 
       => https://www.youtube.com/watch?v=QhaELILKk38&list=PLgPb8HXOGtsQRiUp7ZBo99FamZ9jxMiAz&index=4
       => https://jacobcelestine.com/knowledge_repo/colab_and_pyspark/#prerequisite
